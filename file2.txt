@@ -1,2 +1,5 @@
 ashf sjhfksjhfs
+<<<<<<< HEAD
 sjf ksfjshf klsj
+=======
+>>>>>>> 0c3e2840935c21dadd5dea54579f6b5071b30587
